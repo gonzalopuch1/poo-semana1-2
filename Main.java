@@ -12,3 +12,4 @@ public class Main {
         Estudiante.mostrarContador();
     }
 }
+// Prueba de 3 estudiantes y metodo estatico

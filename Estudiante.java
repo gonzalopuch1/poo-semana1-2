@@ -36,4 +36,4 @@ public class Estudiante {
     public static void mostrarContador() {
         System.out.println("Estudiantes registrados actualmente: " + contadorEstudiantes);
     }
-}
+}// Variable y metodo estatico para control

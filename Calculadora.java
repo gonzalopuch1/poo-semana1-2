@@ -26,3 +26,4 @@ public class Calculadora {
         System.out.println("Detalle:\n" + historial);
     }
 }
+// Clase Calculadora con sobrecarga y static
